@@ -12,3 +12,4 @@
 	- AFIS_CAFELE
 	- STERGE <nume> : unde <nume> este numele bauturii catre trebuie stearsa
 	- SORT
+	- EXIT
